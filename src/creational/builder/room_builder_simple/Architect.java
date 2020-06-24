@@ -1,4 +1,4 @@
-package creational.builder.room_builder;
+package creational.builder.room_builder_simple;
 
 public class Architect {
     public static void main(String[] args) {

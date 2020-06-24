@@ -1,4 +1,4 @@
-package creational.builder.room_builder;
+package creational.builder.room_builder_simple;
 
 public class ChildrenRoomBuilder implements RoomBuilder{
     private int ceilingHeight;
